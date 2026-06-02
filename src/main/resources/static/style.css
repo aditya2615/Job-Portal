@@ -1,0 +1,43 @@
+body{
+    font-family:Arial;
+    background:#f2f2f2;
+    text-align:center;
+}
+
+h1{
+    margin-top:20px;
+}
+
+.login-box{
+    width:400px;
+    margin:auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+input,
+select,
+textarea{
+    width:90%;
+    padding:12px;
+    margin:10px;
+}
+
+button{
+    background:blue;
+    color:white;
+    border:none;
+    padding:10px 25px;
+    cursor:pointer;
+}
+
+.job-card{
+    width:500px;
+    margin:20px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 5px gray;
+}
