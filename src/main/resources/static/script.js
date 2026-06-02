@@ -76,3 +76,6 @@ async function registerUser(){
 
     window.location.href = "index.html";
 }
+<button onclick="window.location.href='profile.html'">
+    My Profile
+</button>

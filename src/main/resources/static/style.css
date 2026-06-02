@@ -41,3 +41,64 @@ button{
     border-radius:10px;
     box-shadow:0 0 5px gray;
 }
+.profile-card{
+    width:500px;
+    margin:30px auto;
+    background:white;
+    padding:20px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+.profile-card img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    margin-bottom:15px;
+}
+
+.profile-card p{
+    margin:10px 0;
+}
+.navbar{
+    background:#1976d2;
+    color:white;
+    padding:15px 40px;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.menu a{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+    font-weight:bold;
+}
+
+.menu a:hover{
+    text-decoration:underline;
+}
+.profile-card{
+
+    width:500px;
+
+    margin:40px auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    box-shadow:0 0 10px #ccc;
+
+    text-align:left;
+}
+
+.profile-card p{
+
+    margin:15px 0;
+}
